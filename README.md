@@ -1,6 +1,6 @@
 # page_indicator
 
-Implementation of the [page indicator workshop](https://youtu.be/gYekEaDo91s) in Flutter by [Super Declarative](https://https://school.superdeclarative.com/#/)
+Implementation of a page indicator in Flutter, based on [a workshop](https://youtu.be/gYekEaDo91s) by [Super Declarative](https://https://school.superdeclarative.com/#/)
 
 ## Screenshot
 
